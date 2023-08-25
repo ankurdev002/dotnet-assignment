@@ -1,0 +1,7 @@
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\bin\Debug\Valid date from string.exe.config
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\bin\Debug\Valid date from string.exe
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\bin\Debug\Valid date from string.pdb
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\obj\Debug\Valid date from string.csproj.AssemblyReference.cache
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\obj\Debug\Valid date from string.csproj.CoreCompileInputs.cache
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\obj\Debug\Valid date from string.exe
+C:\Users\Ankur Saini\source\repos\Valid date from string\Valid date from string\obj\Debug\Valid date from string.pdb

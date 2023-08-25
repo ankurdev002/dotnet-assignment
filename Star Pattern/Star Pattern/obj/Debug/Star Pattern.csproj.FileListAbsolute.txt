@@ -1,0 +1,7 @@
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\bin\Debug\Star Pattern.exe.config
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\bin\Debug\Star Pattern.exe
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\bin\Debug\Star Pattern.pdb
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\obj\Debug\Star Pattern.csproj.AssemblyReference.cache
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\obj\Debug\Star Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\obj\Debug\Star Pattern.exe
+C:\Users\Ankur Saini\source\repos\Star Pattern\Star Pattern\obj\Debug\Star Pattern.pdb
